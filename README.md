@@ -1,5 +1,7 @@
 [local-font-access-playground](https://dirkarnez.github.io/local-font-access-playground)
 ========================================================================================
+From https://github.com/GoogleChrome/samples/tree/gh-pages/local-font-access
+
 - https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API
 - ```js
   async function loadCustomLocalFonts() {
